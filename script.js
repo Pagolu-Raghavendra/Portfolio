@@ -79,10 +79,13 @@ for (var i = 0; i < navLinks.length; i++) {
   });
 }
 
-//Preventing ctrlKey function
+//Preventing ctrlKey and cmdKey function
 document.addEventListener("keydown", function (event){
   if (event.ctrlKey){
      event.preventDefault(); 
+  }
+  if(event.metaKey){
+    event.preventDefault();
   }
   if(event.keyCode == 123){
      event.preventDefault();
