@@ -336,11 +336,11 @@ section .button button:hover{
   background: rgb(0, 0, 0)!important;
 }
 
-/* My Publication CSS */
-.publication{
+/* My Research CSS */
+.research{
   background:#F0F8FF ;
 }
-.publication .details{
+.research .details{
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -357,11 +357,11 @@ section .button button:hover{
   color: #0E2431;
   font-size: 20px;
 }
-.publication .details .right{
+.research .details .right{
   margin-left: 100px;
   width: 55%;
 }
-.publication .right img{
+.research .right img{
   height: 400px;
   width: 600px;
   object-fit: cover;
