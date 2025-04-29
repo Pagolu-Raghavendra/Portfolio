@@ -602,7 +602,7 @@ footer .text span a:hover{
   section .content{
     width: 85%;
   }
-  .publication .right img{
+  .research .right img{
     height: 400px;
     width: 500px;
   }
@@ -693,11 +693,11 @@ footer .text span a:hover{
     width: 90%;
     margin: 40px 0;
   }
-  .publication .details{
+  .research .details{
     justify-content: center;
     flex-direction: column;
   }
-  .publication .details .right{
+  .research .details .right{
     display: flex;
     justify-content: center;
     width: 100%;
@@ -711,7 +711,7 @@ footer .text span a:hover{
   .details .left p{
     font-size: 20px;
   }
-  .publication .details .right{
+  .research .details .right{
     width: 100%;
   }
   .certifications .boxes .box{
@@ -798,10 +798,10 @@ footer .text span a:hover{
     height: 80px;
     width: 80px;
   }
-  .publication .details .right{
+  .research .details .right{
     margin-left: 0px;
   }
-  .publication .right img{
+  .research .right img{
     height: 200px;
     width: 300px;
     margin-left: -10px;
