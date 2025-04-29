@@ -603,8 +603,8 @@ footer .text span a:hover{
     width: 85%;
   }
   .research .right img{
-    height: 400px;
-    width: 500px;
+    height: 50%;
+    width: 50%;
   }
   .skills-details .boxes .box{
     margin: 20px 0;
@@ -700,7 +700,7 @@ footer .text span a:hover{
   .research .details .right{
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: 50%;
   }
   .details .left{
     width: 100%;
@@ -712,7 +712,7 @@ footer .text span a:hover{
     font-size: 20px;
   }
   .research .details .right{
-    width: 100%;
+    width: 50%;
   }
   .certifications .boxes .box{
     margin: 20px 0;
@@ -802,8 +802,8 @@ footer .text span a:hover{
     margin-left: 0px;
   }
   .research .right img{
-    height: 200px;
-    width: 300px;
+    height: 40%;
+    width: 40%;
     margin-left: -10px;
   }
   .certifications .boxes .box{
