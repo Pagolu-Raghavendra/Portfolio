@@ -1,7 +1,7 @@
 $(document).ready(function(){
   // Typing text animation script
   var typed = new Typed(".typing", {
-    strings: ["Full Stack Developer", "Data Science and AI Enthusiast", "Python Developer", "CS Undergraduate"],
+    strings: ["CS Undergraduate", "Python Developer", "Data Science and AI Enthusiast", "Full Stack Developer"],
     typeSpeed: 30,
     backSpeed: 50,
     loop: true
