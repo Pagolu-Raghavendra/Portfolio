@@ -1,7 +1,7 @@
 $(document).ready(function(){
   // Typing text animation script
   var typed = new Typed(".typing", {
-    strings: ["CS Undergraduate", "Python Developer", "Data Science and AI Enthusiast", "Full Stack Developer"],
+    strings: ["CS Graduate Student", "Python Developer", "Data Science and AI Enthusiast", "Full Stack Developer"],
     typeSpeed: 30,
     backSpeed: 50,
     loop: true
@@ -96,3 +96,4 @@ document.addEventListener("keydown", function (event){
 document.addEventListener('contextmenu', 
   event => event.preventDefault()
 );
+
