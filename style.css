@@ -418,11 +418,11 @@ section .button button:hover{
   color: #fff;
 }
 
-/* My Training Programs CSS */
-.training{
+/* My internships Programs CSS */
+.internships{
   background:#F0F8FF ;
 }
-.training .timeline{
+.internships .timeline{
 	position:relative;
 	max-width: 1200px;
 	margin: 100px auto;
@@ -437,44 +437,44 @@ section .button button:hover{
 	left:50%;
 	margin-left: -3px;
 }
-.training .container{
+.internships .container{
 	padding: 10px 50px;
 	position:relative;
 	width: 50%;
 }
-.training .text-box{
+.internships .text-box{
 	padding: 20px 30px;
 	background: #fff;
 	position: relative;
 	border-radius: 6px;
 	font-size: 15px;
 }
-.training .left-container{
+.internships .left-container{
 	left:0;
 }
-.training .right-container{
+.internships .right-container{
 	left:50%;
 }
-.training .container img{
+.internships .container img{
 	position:absolute;
 	width: 40px;
 	border-radius: 50%;
 	right: -20px;
 	top:32px;
 }
-.training .right-container img{
+.internships .right-container img{
 	left: -20px;
 }
-.training .text-box h2{
+.internships .text-box h2{
 	font-weight: 600;
   font-size: 20px;
 }
-.training .text-box small{
+.internships .text-box small{
 	display: inline-block;
 	margin-bottom: 15px;
   font-size: 13px;
 }
-.training .left-container-arrow{
+.internships .left-container-arrow{
 	height: 0;
 	width: 0;
 	position: absolute;
@@ -485,7 +485,7 @@ section .button button:hover{
 	border-left: 15px solid #fff;
 	right: -15.2px;
 }
-.training .right-container-arrow{
+.internships .right-container-arrow{
 	height: 0;
 	width: 0;
 	position: absolute;
